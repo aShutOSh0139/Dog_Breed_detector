@@ -4,7 +4,7 @@ Welcome to the **Dog Breed Detector** project! This project tackles a multiclass
 
 ## Contents
 
-- `dog-vision-model.ipynb`: This Jupyter notebook contains the detailed documentation and code for:
+-  [`dog-vision-model.ipynb`](<https://github.com/aShutOSh0139/Dog_Breed_detector/blob/main/dog-vision-model.ipynb>): This Jupyter notebook contains the detailed documentation and code for:
   - Data modification and preprocessing.
   - Importing, modifying, and compiling the model.
   - Creating callbacks.
