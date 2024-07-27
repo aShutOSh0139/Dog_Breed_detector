@@ -1,6 +1,6 @@
 # Dog Breed Detector
 
-Welcome to the **Dog Breed Detector** project! This project tackles a multiclass classification problem and can identify over 120 different breeds of dogs with an accuracy of 99%. The project is an extension of the [MobileNetV2](<https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/4>) model, trained using the [dog breed identification dataset](<https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fc%2Fdog-breed-identification%2Fdata>) from Kaggle.
+Welcome to the **Dog Breed Detector** project! This project tackles a multiclass classification problem and can identify over 120 different breeds of dogs with an accuracy of 99%. The project is an extension of the [MobileNetV2](<https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/4>) model, trained using the [dog breed identification dataset](<https://www.kaggle.com/c/dog-breed-identification/data>) from Kaggle.
 
 ## Contents:
 
