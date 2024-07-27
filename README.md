@@ -37,6 +37,6 @@ To use the model for identifying dog breeds from your custom images, follow thes
      ```bash
      conda install numpy pandas matplotlib tensorflow==2.3.0 keras tensorflow_hub==0.15.0
      ```
-   - Open the Jupyter notebook file (`Dog-Breed-Testing.ipynb`) and modify the paths for the trained model and custom images folder.
+   - Open the Jupyter notebook file `Dog-Breed-Testing.ipynb` and modify the paths for the trained model and custom images folder.
 
 Alternatively, you can use Google Colab without the need for local installations.
