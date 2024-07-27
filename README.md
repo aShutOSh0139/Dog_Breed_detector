@@ -13,7 +13,7 @@ Welcome to the **Dog Breed Detector** project! This project tackles a multiclass
 ## Important Note
 **The trained model is 22 MB in size and is not uploaded to this repository.** You can download the trained model from the following link: [Trained Model](<https://drive.google.com/file/d/1-sFGNUp9ycoZ0Uw7wx-8AX13O1R7z0ae/view?usp=sharing>).
 
-The test results CSVs from `dog-vision-model.ipynb` are uploaded on Google Drive: [Test Results (full_model_prediction)](<https://drive.google.com/drive/folders/1V36zg39hxC9zIH8IUuQ0y-45n5hzKTt3?usp=sharing)>).
+The test results CSVs from `dog-vision-model.ipynb` are uploaded on Google Drive: [Test Results (full_model_prediction)](<https://drive.google.com/drive/folders/1V36zg39hxC9zIH8IUuQ0y-45n5hzKTt3?usp=sharing>).
 
 ### `dog-vision-model.ipynb`
 
@@ -30,7 +30,7 @@ This notebook explains how to load and use the trained model to identify the bre
 ## Usage
 To use the model for identifying dog breeds from your custom images, follow these steps:
 
-1. Download the `Dog-Breed-Testing.ipynb` file and the [Trained Model (Link)](<[Trained_Model_Link](https://drive.google.com/file/d/1-sFGNUp9ycoZ0Uw7wx-8AX13O1R7z0ae/view?usp=sharing)>).
+1. Download the [Dog-Breed-Testing.ipynb](<https://github.com/aShutOSh0139/Dog_Breed_detector/blob/main/Dog-Breed-Testing.ipynb>) file and the [Trained Model](<https://drive.google.com/file/d/1-sFGNUp9ycoZ0Uw7wx-8AX13O1R7z0ae/view?usp=sharing>).
 2. If you want to use the model locally:
    - Open Anaconda Prompt and activate your environment.
    - Install the necessary packages:
